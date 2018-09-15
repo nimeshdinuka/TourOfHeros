@@ -19,6 +19,7 @@ export class HeroesDetailsComponent implements OnInit {
     private route: ActivatedRoute,
     private heroService: HeroService,
     private location: Location
+    ///this is comment
   ) {}
   
   ngOnInit(): void {
